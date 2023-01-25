@@ -3,6 +3,7 @@
 Copyright (C) 2011-2018 HERE Europe B.V.
 
 The Point Processing Toolkit (pptk) is a Python package for visualizing and processing 2-d/3-d point clouds.
+* This is modified version of pptk for demonstration of SSL.
 
 At present, pptk consists of the following features.
 
